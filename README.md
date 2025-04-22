@@ -9,4 +9,8 @@ Detta är en enkel textbaserad version av det klassiska spelet *Sten, Sax, Påse
 2. Navigera till mappen där `spel.py` finns
 3. Kör följande kommando: python spel.py
 
+OBS!
+Python 3 måste vara installerat och tillagt som tillägg för att programmet ska fungera.
+
+
 Ha det så roligt!

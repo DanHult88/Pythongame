@@ -1,4 +1,4 @@
-# 🪨 Sten Sax Påse – Ett enkelt Python-spel
+# Sten Sax Påse – Ett enkelt Python-spel
 
 Detta är en enkel textbaserad version av det klassiska spelet *Sten, Sax, Påse*, skriven i Python. Du spelar mot datorn, och spelet fortsätter tills någon vinner.
 - Blir det lika får du försöka igen!
